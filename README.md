@@ -1,5 +1,6 @@
 ## pastebin
-Uses https://pastebin.com/api/api_post.php to paste text and make it available
+Uses https://pastebin.com/api/api_post.php to paste text and make it available as a link
+eg. https://pastebin.com/HJKxEBk2
 
 Prerequisites:
 * rvm (rvm.io)
