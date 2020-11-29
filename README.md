@@ -1,4 +1,7 @@
 ## pastebin
+
+![temporary logo](https://bt-strike.s3-us-west-2.amazonaws.com/images/ruby.gif "bt-strike temporary logo")
+
 Uses https://pastebin.com/api/api_post.php to paste text and make it available as a link
 eg. https://pastebin.com/HJKxEBk2
 
